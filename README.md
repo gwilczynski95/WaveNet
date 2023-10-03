@@ -24,6 +24,10 @@ You can download my trained model from
 This is the whole model directory, so for the `model_dir` argument you'll have to pass `your/path/to/model_dir/model` 
 (this is the directory with .
 
+## Generated samples
+
+In `samples` directory you can find some generated samples with aforementioned model ;)
+
 ### Note
 
 If you feel this README lacks something - let me know, I'll fix this. Or if you have any idea on how to improve this
